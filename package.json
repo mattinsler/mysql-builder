@@ -1,7 +1,7 @@
 {
   "name": "mysql-builder",
   "description": "Easily create/configure a MySQL client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/mattinsler/mysql-builder",
   "author": {
     "name": "Matt Insler",
