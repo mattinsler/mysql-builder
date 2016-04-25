@@ -1,7 +1,7 @@
 {
   "name": "mysql-builder",
   "description": "Easily create/configure a MySQL client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/mattinsler/mysql-builder",
   "author": {
     "name": "Matt Insler",
@@ -26,8 +26,10 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
+    "betturl": "0.2.3"
   },
-  "devDependencies": {
-  },
-  "keywords": ["mysql"]
+  "devDependencies": {},
+  "keywords": [
+    "mysql"
+  ]
 }
